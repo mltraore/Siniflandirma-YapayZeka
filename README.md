@@ -7,6 +7,7 @@ algoritmaya göre uygun sınıflara atamak.
 </p>
 <h2> Kod Aşamaları ve açıklama </h2>
 <h3>Kütüphaneler ve Namesapce</h3>
+
 ```cpp
 
 #include <iostream>
