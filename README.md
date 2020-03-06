@@ -18,6 +18,7 @@ algoritmaya göre uygun sınıflara atamak.
 using namespace std;
 
 ```
+
 <h3> Graftaki eleman yapısı tanımlanır: (x,y) Koordinatları ve Renk</h3>
 
 ```cpp
@@ -332,7 +333,7 @@ void printElementByGroup(){
 }
 
 ```
-<h3> Uygulaması </h3> 
+<h3> Demosu </h3> 
 
 ```cpp
 
@@ -363,17 +364,16 @@ return 0;
 
 <h2>Örneklerin Çıktıları</h2> 
 <ul>
-<li> <h3> </h3> </li>
+<li> <h3> KNN Algoritması Örneği </h3> </li>
 <img src = "images/knn.png" alt="KNN" title="KNN">
-<li> <h3> </h3> </li>
+<li> <h3>Öklid Algoritması Örneği</h3> </li>
 <img src = "images/euclude.png" alt="Öklid" title="Öklid">
 </ul>
 
-<h3>Kodu Linux Çalıştırma:</h3>
-```
-g++ siniflandirma.cxx -lm && ./a.out 
+<h3>Kodun Linux tabanlı OS'lerde Çalıştırılması:</h3>
 
-```
+<pre> g++ siniflandirma.cxx -lm && ./a.out </pre>
+
 
 
 
